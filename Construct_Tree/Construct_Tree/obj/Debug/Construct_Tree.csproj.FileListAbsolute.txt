@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Cuarto Ciclo\Estructuras\Construct_Tree\Construct_Tree\bin\Debug\Construct_Tree.exe.config
+C:\Users\Usuario\Desktop\Cuarto Ciclo\Estructuras\Construct_Tree\Construct_Tree\bin\Debug\Construct_Tree.exe
+C:\Users\Usuario\Desktop\Cuarto Ciclo\Estructuras\Construct_Tree\Construct_Tree\bin\Debug\Construct_Tree.pdb
+C:\Users\Usuario\Desktop\Cuarto Ciclo\Estructuras\Construct_Tree\Construct_Tree\obj\Debug\Construct_Tree.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cuarto Ciclo\Estructuras\Construct_Tree\Construct_Tree\obj\Debug\Construct_Tree.exe
+C:\Users\Usuario\Desktop\Cuarto Ciclo\Estructuras\Construct_Tree\Construct_Tree\obj\Debug\Construct_Tree.pdb
