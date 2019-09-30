@@ -13,6 +13,6 @@ namespace Construct_Tree
         void Mostrar2();
         void Mostrar1();
         void PreOrden(Nodo<string> Raiz);
-        string InOrden(Nodo<string> Raiz);
+        void InOrden(Nodo<string> Raiz);
     }
 }

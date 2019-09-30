@@ -58,12 +58,18 @@ namespace Construct_Tree
             #endregion
         }
 
-        public string InOrden(Nodo<string> Raiz)
+        public void InOrden(Nodo<string> Raiz)
         {
-            InOrden(Raiz.hijoizq);
-            var numero = Raiz.Value;
-            InOrden(Raiz.hijoder);
-            return numero;
+            if (Raiz.hijoizq == null)
+            {
+                InOrden(Raiz.hijoder);
+            }
+            else
+            {
+                InOrden(Raiz.hijoizq);
+                Console.WriteLine(Raiz.Value);
+                InOrden(Raiz.hijoder);
+            }
         }
         #region Mostar arbol
         public void Mostrar1()
